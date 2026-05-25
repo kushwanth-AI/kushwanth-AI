@@ -1,4 +1,4 @@
-<h1 align="center">Kushwanth Yantrapati</h1>
+<h1 align="center">👋 Hi, I'm Kushwanth Yantrapati</h1>
 
 <p align="center">
    AI Engineer | Agentic AI | Generative AI | LLM Applications | RAG | Multi-Agent Systems
