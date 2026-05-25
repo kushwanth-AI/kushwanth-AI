@@ -133,14 +133,6 @@ Jun 2023 - May 2024 | Hyderabad, India
 - Created dashboards and business reports using Power BI and Excel
 - Automated repetitive reporting and data processing workflows
 
----
-
-## Portfolio
-
-My portfolio showcases AI engineering work, project experience, technical skills, blogs, gallery highlights, professional background, and contact information.
-
-- Live site: [portfolio-wine-kappa-49u9kjcebo.vercel.app](https://portfolio-wine-kappa-49u9kjcebo.vercel.app)
-- Source code: [github.com/kushwanth-AI/portfolio](https://github.com/kushwanth-AI/portfolio)
 
 ---
 
