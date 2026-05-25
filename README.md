@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Kushwanth Yantrapati</h1>
+<h1 align="center">Kushwanth Yantrapati</h1>
 
 <p align="center">
-  AI Solutions Engineer - Agentic AI | Generative AI | LLMs | RAG | Multi-Agent Systems
+  Senior AI Engineer | Agentic AI | Generative AI | LLM Applications | RAG | Multi-Agent Systems
 </p>
 
 <p align="center">
@@ -12,56 +12,64 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=AI+Solutions+Engineer;Agentic+AI+Developer;LLM+and+RAG+Engineer;FastAPI+Backend+Developer;Building+Multi-Agent+Healthcare+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=Senior+AI+Engineer;Agentic+AI+Developer;LLM+and+RAG+Engineer;FastAPI+Backend+Engineer;Building+Production+AI+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
-## About Me
+## Professional Summary
 
-I am an AI Solutions Engineer specializing in Generative AI, Multi-Agent Systems, RAG pipelines, and production-ready backend APIs. I focus on building intelligent systems that connect LLM reasoning with real enterprise workflows, secure APIs, vector databases, and user-facing products.
+I am a Senior AI Engineer focused on building production-ready AI systems that combine LLM reasoning, agent orchestration, retrieval-augmented generation, secure backend APIs, and enterprise workflow automation.
 
-Currently, I am working at **Apollo Health and Lifestyle Limited (AHLL)** as an **AI Solutions Engineer - Agentic AI**, building **Apollo ARIA**, a production-grade multi-agent healthcare assistant for Apollo Hospitals.
+My work sits at the intersection of Generative AI, multi-agent systems, healthcare technology, backend engineering, and applied data intelligence. I specialize in taking AI concepts from prototype to usable product by designing reliable architectures, integrating real business systems, and building workflows that can operate in production environments.
 
-- 3 years of experience across AI, machine learning, analytics, and backend systems
-- Building LLM applications with LangChain, LangGraph, GPT-4, RAG, and agent orchestration
-- Experienced with FastAPI, PostgreSQL, Redis, vector databases, authentication, and enterprise integrations
-- Based in Hyderabad, Telangana, India
+Currently, I work at **Apollo Health and Lifestyle Limited (AHLL)** as an **AI Solutions Engineer - Agentic AI**, where I am building **Apollo ARIA**, a multi-agent healthcare assistant for Apollo Hospitals.
 
 ---
 
-## Current Focus
+## Core Expertise
 
-### Apollo ARIA - AI-Powered Multi-Agent Healthcare Assistant
+- **Agentic AI:** LangGraph workflows, multi-agent orchestration, tool-calling, memory, routing, and task automation
+- **LLM Engineering:** Prompt design, GPT-based applications, RAG pipelines, evaluation-aware development, and conversational AI
+- **Backend Engineering:** FastAPI services, REST APIs, WebSockets, authentication, background jobs, and scalable service design
+- **Data and Retrieval:** PostgreSQL, Redis, Qdrant, Pinecone, FAISS, Chroma, Neo4j, SQLAlchemy, and semantic search
+- **Enterprise Integration:** Payments, notifications, hospital systems, voice AI, OCR, queue workflows, and secure API integrations
+- **Analytics Foundation:** Python, Pandas, NumPy, SQL, Power BI, Excel, EDA, reporting, and workflow automation
 
-Developing a healthcare AI assistant that supports the complete patient journey, including symptom understanding, doctor discovery, appointment booking, diagnostics, invoice generation, payments, multilingual voice interactions, and hospital workflow automation.
+---
 
-Key areas:
+## Current Work
 
-- Modular LangGraph orchestration with dedicated agents for intent parsing, RAG retrieval, doctor search, booking, memory, queues, and hospital guidance
-- GPT-4 powered conversational flows with session-based memory
-- QdrantDB RAG pipelines for real-time healthcare service and pricing retrieval
-- OCR-based medical report analysis with AI-generated summaries
-- Multilingual voice interactions using Sarvam AI across English, Telugu, Hindi, Tamil, and Kannada
-- Backend architecture with FastAPI, Redis, PostgreSQL, SQLAlchemy, WebSockets, Razorpay, Twilio, and SendGrid
+### Apollo ARIA - Multi-Agent Healthcare Assistant
+
+Apollo ARIA is a production-grade AI assistant designed to support healthcare workflows across the patient journey.
+
+Key responsibilities and contributions:
+
+- Designing modular agent workflows using **LangGraph** for intent understanding, retrieval, doctor search, appointment booking, memory, queue handling, and hospital guidance
+- Building GPT-powered conversational flows with session memory and structured tool execution
+- Implementing **RAG pipelines with Qdrant** for healthcare services, pricing, and operational knowledge retrieval
+- Integrating OCR-based medical report analysis with AI-generated summaries
+- Supporting multilingual voice interactions across English, Telugu, Hindi, Tamil, and Kannada using Sarvam AI
+- Developing backend services with **FastAPI, Redis, PostgreSQL, SQLAlchemy, WebSockets, Razorpay, Twilio, and SendGrid**
 
 ---
 
 ## Featured Projects
 
-| Project | Focus | Stack |
+| Project | Description | Technology |
 | --- | --- | --- |
-| Apollo ARIA | Multi-agent healthcare assistant for Apollo Hospitals | LangGraph, GPT-4, FastAPI, QdrantDB, Redis, PostgreSQL, React.js |
-| AI-Driven SQL Generation using Knowledge Graph | Natural language to optimized SQL for enterprise databases | Python, LangGraph, Knowledge Graphs, FastAPI, Neo4j, PostgreSQL |
-| Enterprise RAG System | Semantic search and knowledge retrieval over enterprise knowledge bases | RAG, LangChain, Pinecone, FAISS, OpenAI, FastAPI |
-| Asset Health Care | Real-time asset monitoring and anomaly detection | Python, FastAPI, PostgreSQL, K-means, Clustering |
-| Data Analytics Dashboards | Clinical data analysis, EDA, and reporting workflows | Python, Pandas, NumPy, SQL, Excel, Matplotlib, Seaborn |
+| **Apollo ARIA** | Multi-agent healthcare assistant for patient journey automation | LangGraph, GPT-4, FastAPI, Qdrant, Redis, PostgreSQL, React |
+| **AI-Driven SQL Generation** | Natural language to optimized SQL using graph-based reasoning | Python, LangGraph, Knowledge Graphs, Neo4j, FastAPI, PostgreSQL |
+| **Enterprise RAG System** | Semantic search and intelligent retrieval over enterprise knowledge bases | LangChain, OpenAI, Pinecone, FAISS, Chroma, FastAPI |
+| **Asset Health Care** | Real-time asset monitoring and anomaly detection workflows | Python, FastAPI, PostgreSQL, Clustering, K-means |
+| **Analytics Dashboards** | Data analysis, reporting, and decision-support dashboards | Python, SQL, Pandas, NumPy, Power BI, Excel |
 
 ---
 
-## Skills & Technologies
+## Technical Stack
 
-### AI and LLM Engineering
+### AI, LLMs, and Agents
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
@@ -70,7 +78,7 @@ Key areas:
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge)
 
-### Backend, Data, and APIs
+### Backend, APIs, and Databases
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -79,12 +87,12 @@ Key areas:
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge)
 
-### Databases and Vector Search
+### Vector Search and Knowledge Systems
 
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/Chroma-4F46E5?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-4F46E5?style=for-the-badge)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -104,48 +112,40 @@ Key areas:
 ### AI Solutions Engineer - Agentic AI
 
 **Apollo Health and Lifestyle Limited (AHLL)**  
-Apr 2026 - Present | Greater Hyderabad Area - Hybrid
+Apr 2026 - Present | Greater Hyderabad Area, India
 
 - Building Apollo ARIA, a production-grade multi-agent healthcare assistant for Apollo Hospitals
-- Designing LangGraph-based agent workflows for patient journey automation
-- Integrating real-time hospital APIs, RAG retrieval, OCR analysis, multilingual voice, payments, notifications, and queue workflows
+- Designing LangGraph-based agent workflows for healthcare automation and patient support
+- Integrating hospital APIs, RAG retrieval, OCR analysis, multilingual voice AI, payments, notifications, and queue workflows
 
 ### AI Engineer
 
 **IBM**  
-June 2024 - Mar 2026 | Hyderabad, India
+Jun 2024 - Mar 2026 | Hyderabad, India
 
 - Designed and deployed enterprise AI agents using LangChain and LangGraph
-- Built RAG pipelines with Pinecone, FAISS, and Chroma
-- Developed secure FastAPI services integrating LLMs with enterprise systems
-- Implemented Microsoft Entra ID, OAuth 2.0, JWT, and RBAC for AI applications
+- Built RAG pipelines with Pinecone, FAISS, and Chroma for knowledge retrieval
+- Developed secure FastAPI services connecting LLMs with enterprise systems
+- Implemented authentication and authorization with Microsoft Entra ID, OAuth 2.0, JWT, and RBAC
 - Built NLP-to-SQL systems using knowledge graphs and LLM reasoning
 
 ### Data Analyst Intern
 
 **IBEAP Solutions Pvt. Ltd.**  
-June 2023 - May 2024 | Hyderabad, India
+Jun 2023 - May 2024 | Hyderabad, India
 
 - Analyzed enterprise datasets using Python, Pandas, NumPy, and SQL
-- Created dashboards and reports using Power BI and Excel
+- Created dashboards and business reports using Power BI and Excel
 - Automated repetitive reporting and data processing workflows
 
 ---
 
 ## Portfolio
 
-My updated portfolio is built with **React, Vite, JavaScript, CSS, and lucide-react**.
+My portfolio showcases AI engineering work, project experience, technical skills, blogs, gallery highlights, professional background, and contact information.
 
-It includes:
-
-- Interactive hero section with profile, stats, and availability
-- About, skills, projects, blogs, testimonials, gallery, experience, education, and contact sections
-- Dark/light theme toggle
-- Responsive navigation
-- Contact form using mailto flow
-
-Live site: [portfolio-wine-kappa-49u9kjcebo.vercel.app](https://portfolio-wine-kappa-49u9kjcebo.vercel.app)  
-Source code: [github.com/kushwanth-AI/portfolio](https://github.com/kushwanth-AI/portfolio)
+- Live site: [portfolio-wine-kappa-49u9kjcebo.vercel.app](https://portfolio-wine-kappa-49u9kjcebo.vercel.app)
+- Source code: [github.com/kushwanth-AI/portfolio](https://github.com/kushwanth-AI/portfolio)
 
 ---
 
@@ -161,7 +161,7 @@ Source code: [github.com/kushwanth-AI/portfolio](https://github.com/kushwanth-AI
 
 ---
 
-## Get in Touch
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kushwanth-yantrapati-48356838a/">
@@ -181,7 +181,7 @@ Source code: [github.com/kushwanth-AI/portfolio](https://github.com/kushwanth-AI
 ---
 
 <p align="center">
-  <i>Building intelligent AI systems that turn complex workflows into simple, useful products.</i>
+  <i>Building intelligent AI systems that turn complex workflows into reliable products.</i>
 </p>
 
 <p align="center">
