@@ -1,7 +1,7 @@
 <h1 align="center">Kushwanth Yantrapati</h1>
 
 <p align="center">
-  Senior AI Engineer | Agentic AI | Generative AI | LLM Applications | RAG | Multi-Agent Systems
+   AI Engineer | Agentic AI | Generative AI | LLM Applications | RAG | Multi-Agent Systems
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## Professional Summary
 
-I am a Senior AI Engineer focused on building production-ready AI systems that combine LLM reasoning, agent orchestration, retrieval-augmented generation, secure backend APIs, and enterprise workflow automation.
+I am a AI Engineer focused on building production-ready AI systems that combine LLM reasoning, agent orchestration, retrieval-augmented generation, secure backend APIs, and enterprise workflow automation.
 
 My work sits at the intersection of Generative AI, multi-agent systems, healthcare technology, backend engineering, and applied data intelligence. I specialize in taking AI concepts from prototype to usable product by designing reliable architectures, integrating real business systems, and building workflows that can operate in production environments.
 
