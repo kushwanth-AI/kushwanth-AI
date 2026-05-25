@@ -12,7 +12,7 @@
 
 ---
 
-## Professional Summary
+## About Me
 
 I am a AI Engineer focused on building production-ready AI systems that combine LLM reasoning, agent orchestration, retrieval-augmented generation, secure backend APIs, and enterprise workflow automation.
 
