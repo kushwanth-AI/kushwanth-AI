@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=Senior+AI+Engineer;Agentic+AI+Developer;LLM+and+RAG+Engineer;FastAPI+Backend+Engineer;Building+Production+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=AI+Engineer;Agentic+AI+Developer;LLM+and+RAG+Engineer;FastAPI+Backend+Engineer;Building+Production+AI+Systems" alt="Typing SVG" />
 </p>
 
 ---
