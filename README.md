@@ -4,12 +4,7 @@
    AI Engineer | Agentic AI | Generative AI | LLM Applications | RAG | Multi-Agent Systems
 </p>
 
-<p align="center">
-  <a href="https://portfolio-wine-kappa-49u9kjcebo.vercel.app">Portfolio</a> |
-  <a href="https://github.com/kushwanth-AI/portfolio">Portfolio Repository</a> |
-  <a href="https://www.linkedin.com/in/kushwanth-yantrapati-48356838a/">LinkedIn</a> |
-  <a href="mailto:kushwanthyantrapati5@gmail.com">Email</a>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=AI+Engineer;Agentic+AI+Developer;LLM+and+RAG+Engineer;FastAPI+Backend+Engineer;Building+Production+AI+Systems" alt="Typing SVG" />
