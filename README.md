@@ -115,7 +115,7 @@ Apr 2026 - Present | Greater Hyderabad Area, India
 
 ### AI Engineer
 
-**Cognstive Techware**  
+**Cognative Techware**  
 Jun 2024 - Mar 2026 | Hyderabad, India
 
 - Designed and deployed enterprise AI agents using LangChain and LangGraph
